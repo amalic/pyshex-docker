@@ -1,5 +1,5 @@
 # pyshex-docker
-More info [here](https://pypi.org/)
+More info [here](https://pypi.org/project/PyShEx/)
 
 ## Build
 ```
